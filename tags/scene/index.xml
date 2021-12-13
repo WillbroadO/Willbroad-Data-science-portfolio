@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Willbroad</title>
+    <link>https://example.com/tags/scene/</link>
+    <description>Recent content in scene on Willbroad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://example.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VII: Time series analysis project</title>
+      <link>https://example.com/post/chapter-4/</link>
+      <pubDate>Fri, 12 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-4/</guid>
+      <description>Time series analysis is basically analyzing the data to find some pattern or trend over a certain period of time. After successfully analyzing the data, you have to forecast future trends/patterns. The nature of time series analysis is more identical to regression analysis, but here the data is time-dependent. In regression, it is assumed that the variables must be independent of each other. So, mere regression analysis can not be applied to time series data.</description>
+    </item>
+    
+  </channel>
+</rss>
